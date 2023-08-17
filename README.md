@@ -1,5 +1,7 @@
+A Fork to add object recognition.
+
 ## Zoneminder Docker for Unraid
-(Current version: 1.34)
+(Current version: 1.36)
 
 ### About
 This is an easy to run dockerized image of [ZoneMinder](https://github.com/ZoneMinder/zoneminder) along with the the [ZM Event Notification Server](https://github.com/pliablepixels/zmeventnotification).  
